@@ -17,7 +17,7 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME "SHIELD"
+#define BTM_DEF_LOCAL_NAME "Wax"
 
 // SERVICE_CLASS:(Bit17 -Networking,Bit19 - Capturing,Bit20 -Object Transfer)
 // MAJOR CLASS: COMPUTER
